@@ -11,6 +11,7 @@
   - BASE = **Baseband signalling**
   - T = **Twisted pair**
   - UTP = **Unshielded Twisted Pair**
+    - UTP cables emit a faint signal outside of the cable, which can be detected and copied
 # Speed
 - Mesured by **bits per second**
 - Not **bytes per second**
